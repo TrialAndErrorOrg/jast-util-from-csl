@@ -1,3 +1,4 @@
+/* eslint-disable */
 const config = {
   displayName: 'jast-jast-util-from-csl',
   preset: '../../../jest.preset.js',
